@@ -32,6 +32,7 @@ export default {
   background: #f4f4f4;
   margin: 5px;
   padding: 10px 20px;
+  border-left: 5px solid transparent;
   cursor: pointer;
 }
 
